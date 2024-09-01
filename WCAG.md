@@ -1,0 +1,6 @@
+# WCAG - Web Content Accessibility Guidelines 2.2
+## Perceivable
+### Text-Alternatives
+| Success Criteria | Description | Applicability | Non-Applicability | Examples |
+| --- | --- | --- | --- | --- |
+| [WCAG 1.1.1 Non-Text Content](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html) | <li>This criteria requires providing text alternatives for non-text content like images, graphics, and multimedia.</li> <li>It ensures that people with visual or cognitive disabilities can understand and access content.</li> | This applies to all digital content containing non-text elements, including websites, apps, documents, and multimedia | <li> It does not apply to non-web content, such as standalone documents (e.g., PDFs) or content that is purely decorative and adds no meaningful information.</li> <li>It doesn't apply to purely decorative images that don't convey content or function</li> | <li>A website includes alt text for images describing their content or function.</li> <li>An e-book provides text descriptions for charts and graphs</li> |
