@@ -82,3 +82,16 @@
 | `widget`| An interactive component of a graphical user interface (GUI).| [widget](https://www.digitala11y.com/widget-role/) |
 | `window`| A browser or application window.| [window](https://www.digitala11y.com/window-role/) |
 | `none` | An element whose implicit native role semantics will not be mapped to the accessibility API.| [none](https://www.digitala11y.com/none-role/) |
+## ARIA States
+|STATES | SUMMARY | REFERENCE |
+|---|---|---|
+|`aria-busy`|Indicates whether an element, and its subtree, are currently being updated.|[aria-busy](https://www.digitala11y.com/aria-busy-state/)|
+|`aria-checked`|Indicates the current “checked” state of checkboxes, radio buttons, and other widgets.|[aria-checked](https://www.digitala11y.com/aria-checked-state/)  |
+|`aria-disabled`|Indicates that the element is perceivable but disabled, so it is not editable or otherwise operable.  |[aria-disabled](https://www.digitala11y.com/aria-disabled-state/)|
+|`aria-expanded`|Indicates whether the element, or another grouping element it controls, is currently expanded or collapsed.|[aria-expanded](https://www.digitala11y.com/aria-expanded-state/)|
+|`aria-grabbed`|Indicates an element’s “grabbed” state in a drag-and-drop operation.  |[aria-grabbed](https://www.digitala11y.com/aria-grabbed-state/)  |
+|`aria-hidden`|Indicates that the element and all of its descendants are not visible or perceivable to any user as implemented by the author.|[aria-hidden](https://www.digitala11y.com/aria-hidden-state/)|
+|`aria-invalid`|Indicates the entered value does not conform to the format expected by the application.|[aria-invalid](https://www.digitala11y.com/aria-invalid-state/)  |
+|`aria-pressed`|Sets or retrieves the pressed state of a button that can be toggled.  |[aria-pressed](https://www.digitala11y.com/aria-pressed-state/)  |
+|`aria-selected`|Sets or retrieves the selection state of the element. |[aria-selected](https://www.digitala11y.com/aria-selected-state/)|
+|`aria-current`|Indicates the element that represents the current item within a container or set of related elements. |[aria-current](https://www.digitala11y.com/aria-current-state/)|
