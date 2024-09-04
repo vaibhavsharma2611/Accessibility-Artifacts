@@ -104,7 +104,6 @@
 |`aria-atomic`|Indicates whether assistive technologies will present all, or only parts of, the changed region based on the change notifications defined by the aria-relevant attribute. |[aria-atomic](https://www.digitala11y.com/aria-atomic-properties/)|
 |`aria-autocomplete`|Indicates whether user input completion suggestions are provided.|[aria-autocomplete](https://www.digitala11y.com/aria-autocomplete-properties/)|
 |`aria-colcount`|Defines the total number of columns in a table, grid, or treegrid.|[aria-colcount](https://www.digitala11y.com/aria-colcountproperties/)|
-|Relationship property|
 |`aria-colindex`|Defines an element’s column index or position with respect to the total number of columns within a table, grid, or treegrid. |[aria-colindex](https://www.digitala11y.com/aria-colindexproperties/)|
 |`aria-colspan`|Defines the number of columns spanned by a cell or gridcell within a table, grid, or treegrid. |[aria-colspan](https://www.digitala11y.com/aria-colspanproperties/)|
 |`aria-Details`|Identifies the element that provides a detailed, extended description for the object. <li> Relationship Property </li> <li> Global Property </li>|[aria-Details](https://www.digitala11y.com/aria-detailsproperties/) |
