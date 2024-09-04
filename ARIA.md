@@ -106,8 +106,7 @@
 |`aria-colcount`|Defines the total number of columns in a table, grid, or treegrid.|[aria-colcount](https://www.digitala11y.com/aria-colcountproperties/)|
 |Relationship property|
 |`aria-colindex`|Defines an element’s column index or position with respect to the total number of columns within a table, grid, or treegrid. |[aria-colindex](https://www.digitala11y.com/aria-colindexproperties/)|
-|`aria-colspan`|Defines the number of columns spanned by a cell or gridcell within a table, grid, or treegrid. |[aria-colspan](https://www.digitala11y.com/aria-colspanproperties/) |
-|Relationship property|
+|`aria-colspan`|Defines the number of columns spanned by a cell or gridcell within a table, grid, or treegrid. |[aria-colspan](https://www.digitala11y.com/aria-colspanproperties/)|
 |`aria-Details`|Identifies the element that provides a detailed, extended description for the object. <li> Relationship Property </li> <li> Global Property </li>|[aria-Details](https://www.digitala11y.com/aria-detailsproperties/) |
 |`aria-errormessage` |Identifies the element that provides an error message for the object.|[aria-Errormessage](https://www.digitala11y.com/aria-errormessageproperties/)|
 |`aria-controls`|Identifies the element (or elements) whose contents or presence are controlled by the current element.|[aria-controls](https://www.digitala11y.com/aria-controls-properties/) |
