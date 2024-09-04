@@ -103,42 +103,40 @@
 |`aria-activedescendant`|Identifies the currently active descendant of a composite widget.|[aria-activedescendant](https://www.digitala11y.com/aria-activedescendant-properties/)|
 |`aria-atomic`|Indicates whether assistive technologies will present all, or only parts of, the changed region based on the change notifications defined by the aria-relevant attribute. |[aria-atomic](https://www.digitala11y.com/aria-atomic-properties/)|
 |`aria-autocomplete`|Indicates whether user input completion suggestions are provided.|[aria-autocomplete](https://www.digitala11y.com/aria-autocomplete-properties/)|
-|aria-colcount|Defines the total number of columns in a table, grid, or treegrid.|[aria-colcount](https://www.digitala11y.com/aria-colcountproperties/)|
+|`aria-colcount`|Defines the total number of columns in a table, grid, or treegrid.|[aria-colcount](https://www.digitala11y.com/aria-colcountproperties/)|
 |Relationship property|
-|aria-colindex|Defines an element’s column index or position with respect to the total number of columns within a table, grid, or treegrid. |[aria-colindex](https://www.digitala11y.com/aria-colindexproperties/)|
-|aria-colspan|Defines the number of columns spanned by a cell or gridcell within a table, grid, or treegrid. |[aria-colspan](https://www.digitala11y.com/aria-colspanproperties/) |
+|`aria-colindex`|Defines an element’s column index or position with respect to the total number of columns within a table, grid, or treegrid. |[aria-colindex](https://www.digitala11y.com/aria-colindexproperties/)|
+|`aria-colspan`|Defines the number of columns spanned by a cell or gridcell within a table, grid, or treegrid. |[aria-colspan](https://www.digitala11y.com/aria-colspanproperties/) |
 |Relationship property|
-|aria-Details|Identifies the element that provides a detailed, extended description for the object. |[aria-Details](https://www.digitala11y.com/aria-detailsproperties/) |
-|Relationship property|
-|Global property|
-|aria-Errormessage |Identifies the element that provides an error message for the object.|[aria-Errormessage](https://www.digitala11y.com/aria-errormessageproperties/)|
-|aria-controls|Identifies the element (or elements) whose contents or presence are controlled by the current element.|[aria-controls](https://www.digitala11y.com/aria-controls-properties/) |
-|aria-describedby|Identifies the element (or elements) that describes the object.|[aria-describedby](https://www.digitala11y.com/aria-describedby-properties/) |
-|aria-dropeffect|Indicates what functions can be performed when the dragged object is released on the drop target. |[aria-dropeffect](https://www.digitala11y.com/aria-dropeffect-properties/)|
-|aria-flowto |Identifies the next element (or elements) in an alternate reading order of content which, at the user’s discretion, allows assistive technology to override the general default of reading in document source order.|[aria-flowto](https://www.digitala11y.com/aria-flowto-properties/)|
-|aria-haspopup|Indicates that the element has a popup context menu or sub-level menu. |[aria-haspopup](https://www.digitala11y.com/aria-haspopup-properties/) |
-|aria-label|Defines a string value that labels the current element. |[aria-label](https://www.digitala11y.com/aria-label-properties/) |
-|aria-labelledby|Identifies the element (or elements) that labels the current element.|[aria-labelledby](https://www.digitala11y.com/aria-labelledby-properties/)|
-|aria-level|Defines the hierarchical level of an element within a structure. |[aria-level](https://www.digitala11y.com/aria-level-properties/) |
-|aria-live|Sets or retrieves how assistive technology announces updates to live regions.|[aria-live](https://www.digitala11y.com/aria-live-properties/)|
-|aria-multiline |Indicates whether a text box accepts multiple lines of input or only a single line |[aria-multiline](https://www.digitala11y.com/aria-multiline-properties/)|
-|aria- multiselectable|Indicates that the user may select more than one item from the current selectable descendants. |[aria-multiselectable](https://www.digitala11y.com/aria-multiselectable-properties/)|
-|aria-orientation|Indicates that the user may select more than one item from the current selectable descendants. |[aria-orientation](https://www.digitala11y.com/aria-orientation-properties/) |
-|aria-owns|Sets or retrieves a list of child objects, including elements that are not direct descendants of the current object.|[aria-owns](https://www.digitala11y.com/aria-owns-properties/)|
-|aria-posinset|Sets or retrieves the current position of an item within a set. Not required if all elements in the set are present in the DOM. |[aria-posinset](https://www.digitala11y.com/aria-posinset-properties/) |
-|aria-readonly|Sets or retrieves the read-only state of this element|[aria-readonly](https://www.digitala11y.com/aria-readonly-properties/) |
-|aria-relevant|Sets or retrieves which changes to a live region are relevant.|[aria-relevant](https://www.digitala11y.com/aria-relevant-properties/) |
-|aria-required|Indicates that user input is required on the element before a form may be submitted.|[aria-required](https://www.digitala11y.com/aria-required-properties/) |
-|aria-setsize|Sets or retrieves the set size of this element. Not required if all elements in the set are present in the DOM.|[aria-setsize](https://www.digitala11y.com/aria-setsize-properties/)|
-|aria-sort|Indicates if items in a table or grid are sorted in ascending or descending order. |[aria-sort](https://www.digitala11y.com/aria-sort-properties/)|
-|aria-valuemax|Sets or retrieves the maximum value that a user can provide.|[aria-valuemax](https://www.digitala11y.com/aria-valuemax-properties/) |
-|aria-valuemin|Sets or retrieves the minimum value that a user can provide.|[aria-valuemin](https://www.digitala11y.com/aria-valuemin-properties/) |
-|aria-valuenow|Sets or retrieves the current value of the element.|[aria-valuenow](https://www.digitala11y.com/aria-valuenow-properties/) |
-|aria-valuetext |Defines the human readable text alternative of aria-valuenow for a range widget.|[aria-valuetext](https://www.digitala11y.com/aria-valuetext-properties/)|
-|aria-rowspan|Defines the number of rows spanned by a cell or gridcell within a table, grid, or treegrid. |[aria-rowspan](https://www.digitala11y.com/aria-rowspanproperties/) |
-|aria-keyshortcuts |Indicates keyboard shortcuts that an author has implemented to activate or give focus to an element. |[aria-keyshortcuts](https://www.digitala11y.com/aria-properties/)|
-|aria-rowindex|Defines an element’s row index or position with respect to the total number of rows within a table, grid, or treegrid. |[aria-rowindex](https://www.digitala11y.com/aria-rowindexproperties/)|
-|aria-roledescription |Defines a human-readable, author-localized description for the role of an element. |[aria-roledescription](https://www.digitala11y.com/aria-roledescriptionproperties/)|
-|aria-modal|Indicates whether an element is modal when displayed.|[aria-modal](https://www.digitala11y.com/aria-modalproperties/)|
-|aria-rowcount|Defines the total number of rows in a table, grid, or treegrid.|[aria-rowcount](https://www.digitala11y.com/aria-rowcountproperties/)|
-|aria-placeholder|Defines a short hint (a word or short phrase) intended to aid the user with data entry when the control has no value. A hint could be a sample value or a brief description of the expected format|[aria-pl](https://www.digitala11y.com/aria-placeholderproperties/)|
+|`aria-Details`|Identifies the element that provides a detailed, extended description for the object. <li> Relationship Property </li> <li> Global Property </li>|[aria-Details](https://www.digitala11y.com/aria-detailsproperties/) |
+|`aria-errormessage` |Identifies the element that provides an error message for the object.|[aria-Errormessage](https://www.digitala11y.com/aria-errormessageproperties/)|
+|`aria-controls`|Identifies the element (or elements) whose contents or presence are controlled by the current element.|[aria-controls](https://www.digitala11y.com/aria-controls-properties/) |
+|`aria-describedby`|Identifies the element (or elements) that describes the object.|[aria-describedby](https://www.digitala11y.com/aria-describedby-properties/) |
+|`aria-dropeffect`|Indicates what functions can be performed when the dragged object is released on the drop target. |[aria-dropeffect](https://www.digitala11y.com/aria-dropeffect-properties/)|
+|`aria-flowto`|Identifies the next element (or elements) in an alternate reading order of content which, at the user’s discretion, allows assistive technology to override the general default of reading in document source order.|[aria-flowto](https://www.digitala11y.com/aria-flowto-properties/)|
+|`aria-haspopup`|Indicates that the element has a popup context menu or sub-level menu. |[aria-haspopup](https://www.digitala11y.com/aria-haspopup-properties/) |
+|`aria-label`|Defines a string value that labels the current element. |[aria-label](https://www.digitala11y.com/aria-label-properties/) |
+|`aria-labelledby`|Identifies the element (or elements) that labels the current element.|[aria-labelledby](https://www.digitala11y.com/aria-labelledby-properties/)|
+|`aria-level`|Defines the hierarchical level of an element within a structure. |[aria-level](https://www.digitala11y.com/aria-level-properties/) |
+|`aria-live`|Sets or retrieves how assistive technology announces updates to live regions.|[aria-live](https://www.digitala11y.com/aria-live-properties/)|
+|`aria-multiline`|Indicates whether a text box accepts multiple lines of input or only a single line |[aria-multiline](https://www.digitala11y.com/aria-multiline-properties/)|
+|`aria- multiselectable`|Indicates that the user may select more than one item from the current selectable descendants. |[aria-multiselectable](https://www.digitala11y.com/aria-multiselectable-properties/)|
+|`aria-orientation`|Indicates that the user may select more than one item from the current selectable descendants. |[aria-orientation](https://www.digitala11y.com/aria-orientation-properties/) |
+|`aria-owns`|Sets or retrieves a list of child objects, including elements that are not direct descendants of the current object.|[aria-owns](https://www.digitala11y.com/aria-owns-properties/)|
+|`aria-posinset`|Sets or retrieves the current position of an item within a set. Not required if all elements in the set are present in the DOM. |[aria-posinset](https://www.digitala11y.com/aria-posinset-properties/)|
+|`aria-readonly`|Sets or retrieves the read-only state of this element|[aria-readonly](https://www.digitala11y.com/aria-readonly-properties/) |
+|`aria-relevant`|Sets or retrieves which changes to a live region are relevant.|[aria-relevant](https://www.digitala11y.com/aria-relevant-properties/) |
+|`aria-required`|Indicates that user input is required on the element before a form may be submitted.|[aria-required](https://www.digitala11y.com/aria-required-properties/) |
+|`aria-setsize`|Sets or retrieves the set size of this element. Not required if all elements in the set are present in the DOM.|[aria-setsize](https://www.digitala11y.com/aria-setsize-properties/)|
+|`aria-sort`|Indicates if items in a table or grid are sorted in ascending or descending order. |[aria-sort](https://www.digitala11y.com/aria-sort-properties/)|
+|`aria-valuemax`|Sets or retrieves the maximum value that a user can provide.|[aria-valuemax](https://www.digitala11y.com/aria-valuemax-properties/) |
+|`aria-valuemin`|Sets or retrieves the minimum value that a user can provide.|[aria-valuemin](https://www.digitala11y.com/aria-valuemin-properties/) |
+|`aria-valuenow`|Sets or retrieves the current value of the element.|[aria-valuenow](https://www.digitala11y.com/aria-valuenow-properties/) |
+|`aria-valuetext`|Defines the human readable text alternative of aria-valuenow for a range widget.|[aria-valuetext](https://www.digitala11y.com/aria-valuetext-properties/)|
+|`aria-rowspan`|Defines the number of rows spanned by a cell or gridcell within a table, grid, or treegrid. |[aria-rowspan](https://www.digitala11y.com/aria-rowspanproperties/) |
+|`aria-keyshortcuts`|Indicates keyboard shortcuts that an author has implemented to activate or give focus to an element. |[aria-keyshortcuts](https://www.digitala11y.com/aria-properties/)|
+|`aria-rowindex`|Defines an element’s row index or position with respect to the total number of rows within a table, grid, or treegrid. |[aria-rowindex](https://www.digitala11y.com/aria-rowindexproperties/)|
+|`aria-roledescription`|Defines a human-readable, author-localized description for the role of an element. |[aria-roledescription](https://www.digitala11y.com/aria-roledescriptionproperties/)|
+|`aria-modal`|Indicates whether an element is modal when displayed.|[aria-modal](https://www.digitala11y.com/aria-modalproperties/)|
+|`aria-rowcount`|Defines the total number of rows in a table, grid, or treegrid.|[aria-rowcount](https://www.digitala11y.com/aria-rowcountproperties/)|
+|`aria-placeholder`|Defines a short hint (a word or short phrase) intended to aid the user with data entry when the control has no value. A hint could be a sample value or a brief description of the expected format|[aria-pl](https://www.digitala11y.com/aria-placeholderproperties/)|
