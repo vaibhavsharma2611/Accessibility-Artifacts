@@ -85,7 +85,7 @@
 
 ## ARIA States
 |STATES | SUMMARY | REFERENCE |
-|---|---|---|
+|:---:|---|:---:|
 |`aria-busy`|Indicates whether an element, and its subtree, are currently being updated.|[aria-busy](https://www.digitala11y.com/aria-busy-state/)|
 |`aria-checked`|Indicates the current “checked” state of checkboxes, radio buttons, and other widgets.|[aria-checked](https://www.digitala11y.com/aria-checked-state/)|
 |`aria-disabled`|Indicates that the element is perceivable but disabled, so it is not editable or otherwise operable.|[aria-disabled](https://www.digitala11y.com/aria-disabled-state/)|
